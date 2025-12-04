@@ -1,4 +1,4 @@
-*** Garter Carriage PSU ***
+## Garter Carriage PSU
 
 - fits a garter carriage power supply box and the stock speed control knob
 - speed control knob works in reverse due to limitations of simple switching power supplies and difficulty working with the 1k potentiometer. you can move one of the pot wires to the other side to fix this if it's important to you.
